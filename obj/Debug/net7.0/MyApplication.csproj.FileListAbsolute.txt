@@ -1,0 +1,15 @@
+C:\Users\jaafa\MyApplication\bin\Debug\net7.0\MyApplication.exe
+C:\Users\jaafa\MyApplication\bin\Debug\net7.0\MyApplication.deps.json
+C:\Users\jaafa\MyApplication\bin\Debug\net7.0\MyApplication.runtimeconfig.json
+C:\Users\jaafa\MyApplication\bin\Debug\net7.0\MyApplication.dll
+C:\Users\jaafa\MyApplication\bin\Debug\net7.0\MyApplication.pdb
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.csproj.AssemblyReference.cache
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.AssemblyInfoInputs.cache
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.AssemblyInfo.cs
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.dll
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\refint\MyApplication.dll
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.pdb
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\MyApplication.genruntimeconfig.cache
+C:\Users\jaafa\MyApplication\obj\Debug\net7.0\ref\MyApplication.dll
